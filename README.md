@@ -1,11 +1,6 @@
-<!-- 🌠 Animated Neon Banner -->
+<!-- 🌠 Animated Background Banner -->
 <div align="center">
-  <img src="https://i.ibb.co/QCqCHbP/neon-stars-banner.gif" width="100%" alt="animated neon background"/>
-</div>
-
-<!-- 💫 Custom Title Banner -->
-<div align="center">
-  <img src="https://files.oaiusercontent.com/file-000000001f786230a1f37527bfeaeb40" width="100%" alt="Ishwari Shinde - Web Developer | AI/ML Learner Banner"/>
+  <img src="https://i.ibb.co/QCqCHbP/neon-stars-banner.gif" width="100%" alt="animated neon banner"/>
 </div>
 
 <!-- 🌟 Animated Typing Header -->
@@ -20,7 +15,7 @@
 💫 I’m **Ishwari**, a Computer Engineering student from **KBTCOE, Nashik (2023–2027)**.  
 I’m passionate about **AI/ML, Web Development, and problem-solving**.  
 
-🌱 Currently exploring **Next.js**, **Prompt Engineering**, and **data-driven systems**.  
+🌱 Currently exploring **Machinne Learning**, **Prompt Engineering**, and **data-driven systems**.  
 ☕ I code late nights, design bright days, and believe in lifelong learning.
 
 </div>
@@ -30,7 +25,7 @@ I’m passionate about **AI/ML, Web Development, and problem-solving**.
 <h2 align="center">🪄 Tech Universe</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=💻+Languages:+Python,+C,+C++,Java,+JavaScript;🌐+Web:+HTML,+CSS,+React,+NextJS;⚙️+Tools:+VS+Code,+GitHub,+Linux,+Android+Studio;📊+Domains:+AI,+ML,+Data+Science,+Cybersecurity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=💻+Languages:+Python,+C,+C++,Java,+JavaScript;🌐+Web:+HTML,+CSS,+React;⚙️+Tools:+VS+Code,+GitHub,+Linux,+Studio;📊+Domains:+AI,+ML,+Data+Science,+Cybersecurity" />
 </p>
 
 <!-- 🌈 Tech Logos Row -->
@@ -40,14 +35,12 @@ I’m passionate about **AI/ML, Web Development, and problem-solving**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" title="NextJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="55" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="55" title="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" title="VS Code" />
 </p>
 
@@ -57,20 +50,12 @@ I’m passionate about **AI/ML, Web Development, and problem-solving**.
 
 | 💡 Project | 🧩 Stack | 🗒️ Description |
 |-------------|-----------|----------------|
-| **💰 [NidhiPrama](#)** | HTML, CSS, JS | Financial literacy website that explains concepts simply for students & adults. |
-| **🌐 [IEEE Student Branch Website](#)** | HTML, CSS, JS | Official IEEE KBTCOE site for events, members, and awareness. |
-| **🛍️ [GrayScale Brand Website](#)** | React, Supabase | Modern e-commerce experience for a premium fashion brand. |
-| **🔒 [Walmart Sparekthon Project](#)** | Cybersecurity | Risk-based access control using real-time trust scoring. |
-| **🍰 [Precise Baking (Google Challenge)](#)** | Python, ML | AI tool that turns ingredients into recipes using trained ML models. |
-| **📊 [Statistical Data Analysis](#)** | Python, Data Science | Visualized Sakura Pen sales insights with Python data tools. |
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IshwariShinde8772&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</p>
+| **💰 [NidhiPrama](https://github.com/IshwariShinde8772/IshwariShinde8772)** | HTML, CSS, JS | Financial literacy website that explains concepts simply for students & adults. |
+| **🌐 [IEEE Student Branch Website](https://github.com/IshwariShinde8772/IEEE-Website)** | HTML, CSS, JS | Official IEEE KBTCOE site for events, members, and awareness. |
+| **🛍️ [GrayScale Brand Website](https://github.com/IshwariShinde8772/grayscale-commerce-avenue)** | React, Supabase | Modern e-commerce experience for a premium fashion brand. |
+| **🔒 [Walmart Sparekthon Project](https://github.com/IshwariShinde8772/walmart-main)** | Cybersecurity | Risk-based access control using real-time trust scoring. |
+| **🍰 [Precise Baking (Google Challenge)](https://github.com/IshwariShinde8772/precision-baking-converter)** | Python, ML | AI tool that turns ingredients into recipes using trained ML models. |
+| **📊 [Statistical Data Analysis](https://github.com/IshwariShinde8772/IshwariShinde8772)** | Python, Data Science | Visualized Sakura Pen sales insights with Python data tools. |
 
 ---
 
@@ -125,7 +110,7 @@ I’m passionate about **AI/ML, Web Development, and problem-solving**.
 
 <h3 align="center">💫 Thanks for visiting — keep building cool things! 💫</h3>
 
-<!-- 🌊 Decorative Wave Animation -->
+<!-- Decorative wave animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" />
 </div>
